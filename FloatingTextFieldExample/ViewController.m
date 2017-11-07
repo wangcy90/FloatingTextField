@@ -12,7 +12,7 @@
 //
 
 #import "ViewController.h"
-#import "FloatingTextField.h"
+#import <FloatingTextField/FloatingTextField.h>
 
 @interface ViewController ()
 
